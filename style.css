@@ -1,0 +1,14 @@
+.footer, .footer-alamat, .div_menu {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.menu {
+  color: white;
+  font-size: 20px;
+}
+
+.slider-div {
+  text-align: center;
+}
